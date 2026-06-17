@@ -1,0 +1,79 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: Arial, sans-serif;
+}
+
+header{
+    background-color: #c28deb;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+nav{
+    margin-top: 10px;
+}
+
+nav a{
+    color: white;
+    text-decoration: none;
+    margin: 15px;
+}
+.banner{
+    text-align: center
+}
+.banner img{
+    width: 100%;
+    height: 520px;
+}
+
+.quemsomos{
+    text-align: center;
+    padding: 40px;
+    background-color: rgb(215, 222, 250);
+}
+
+.quemsomos img{
+    width: 700px;
+    height:340px ;
+}
+
+.servicos{
+    background-color: #f4f4f4;
+    padding: 40px;
+    text-align: center;
+}
+
+.caixa{
+    background-color: white;
+    width: 250px;
+    height: 50px;
+    display: inline-block;
+    margin: 15px;
+    padding: 25px;
+    border: 1px solid #ccc;
+    vertical-align: top;
+}
+
+.galeria{
+    background-color: rgb(203, 206, 206);
+    text-align: center;
+    padding: 40px;
+}
+
+.galeria img{
+    width: 300px;
+    margin: 10px;
+    vertical-align: top;
+}
+
+footer{
+    background-color: #c28deb;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
